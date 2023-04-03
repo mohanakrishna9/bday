@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background: #020202;
+  font-family: "Neucha", cursive;
+}
+canvas {
+  display: block;
+}
+h1 {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-family: "Neucha", cursive;
+  font-size: 3.5em;
+  font-weight: 900;
+  -webkit-user-select: none;
+  user-select: none;
+}
+small {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: orangered;
+  font-family: "Neucha", cursive;
+  font-size: 1.5em;
+  font-weight: 900;
+  -webkit-user-select: none;
+  user-select: none;
+}
